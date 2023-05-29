@@ -1,0 +1,1 @@
+# mspaint-pyautogui-example
